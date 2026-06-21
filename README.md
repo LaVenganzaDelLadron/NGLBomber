@@ -7,7 +7,6 @@ This project is a simple Python command-line tool that sends messages to an NGL 
 It is mainly built for learning purposes to understand:
 - HTTP requests with `requests`
 - CLI input handling in Python
-- UUID generation
 - Basic automation structure
 
 ---
