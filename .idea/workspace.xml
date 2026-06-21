@@ -1,20 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7d84574-c023-424d-a04b-0bf4634d07f0" name="Changes" comment="" />
+    <list default="true" id="a7d84574-c023-424d-a04b-0bf4634d07f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/NGLBomber.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/banner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/darkglitch.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/services.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2,
-  "fromUser": false
-}]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000003466540617" />
+      <entry key="MS500" value="1.0510480619443765" />
+      <entry key="S2" value="1.4753295544304819" />
+      <entry key="S5" value="1.7434203402575237" />
+      <entry key="S10" value="1.9179613661953692" />
+      <entry key="S30" value="3.9278942173295257" />
+      <entry key="S60" value="8.7978381837474" />
+      <entry key="M2" value="16.85148824380306" />
+      <entry key="M5" value="30.56622817701623" />
+      <entry key="M10" value="44.89400752988254" />
+      <entry key="M15" value="58.099164691338714" />
+      <entry key="M30" value="96.76441046227382" />
+      <entry key="H1" value="151.83133142315896" />
+      <entry key="H2" value="203.51408527966066" />
+      <entry key="H4" value="239.85318852158437" />
+      <entry key="D1" value="277.51314618815667" />
+      <entry key="W1" value="284.76640119525854" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.7773151295009767E-199" />
+      <entry key="MS500" value="1.9441287915769835E-40" />
+      <entry key="S2" value="1.1808133594102232E-10" />
+      <entry key="S5" value="1.0687410807634344E-4" />
+      <entry key="S10" value="0.010338216519478468" />
+      <entry key="S30" value="0.22837665325483428" />
+      <entry key="S60" value="0.638016912210829" />
+      <entry key="M2" value="1.4279362674581786" />
+      <entry key="M5" value="3.1704084702330353" />
+      <entry key="M10" value="5.406562505515033" />
+      <entry key="M15" value="7.308470872827051" />
+      <entry key="M30" value="11.856330603809878" />
+      <entry key="H1" value="17.436854783824476" />
+      <entry key="H2" value="22.370529285441314" />
+      <entry key="H4" value="25.757511776206588" />
+      <entry key="D1" value="29.223624081364147" />
+      <entry key="W1" value="29.88724512085861" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.939523070419527" />
+      <entry key="MS500" value="1.0378763846292423" />
+      <entry key="S2" value="1.4704065978177616" />
+      <entry key="S5" value="1.7411136473069917" />
+      <entry key="S10" value="1.92557773027676" />
+      <entry key="S30" value="4.142517641139983" />
+      <entry key="S60" value="9.414542395887308" />
+      <entry key="M2" value="18.254735475459217" />
+      <entry key="M5" value="33.71285047863343" />
+      <entry key="M10" value="50.2775800693281" />
+      <entry key="M15" value="65.38360317064789" />
+      <entry key="M30" value="108.59356162305855" />
+      <entry key="H1" value="169.24295400191116" />
+      <entry key="H2" value="225.866445958321" />
+      <entry key="H4" value="265.59965961938485" />
+      <entry key="D1" value="306.7345924266461" />
+      <entry key="W1" value="314.653325910508" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3FPPVNOxWXlfQXlwRTUqGVC3ofm" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -22,12 +105,20 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
+    "Python.view.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -46,11 +137,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1781973754307</updated>
-      <workItem from="1781973755375" duration="1000" />
+      <workItem from="1781973755375" duration="2761000" />
+      <workItem from="1782006059279" duration="5552000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/NGLBomber$view.coverage" NAME="view Coverage Results" MODIFIED="1782009432200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/NGLBomber$main.coverage" NAME="main Coverage Results" MODIFIED="1781975256036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
