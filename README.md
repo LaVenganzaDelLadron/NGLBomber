@@ -64,6 +64,8 @@ if failed
 USERNAME IS NOT EXIST
 ```
 
+![Banner](img.png)
+
 ### ⚠️ Disclaimer
 This tool interacts with a third-party service (NGL API).
 Excessive usage may lead to rate limits or blocked requests.
